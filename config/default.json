@@ -1,0 +1,5 @@
+{
+    "port": 5000,
+    "jwtSecret": "sdnk",
+    "mongoUri": "mongodb+srv://artacab:Artmsdnk1994@cluster0.e1iau.mongodb.net/app?retryWrites=true&w=majority"
+}
